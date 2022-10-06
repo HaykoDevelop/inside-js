@@ -34,7 +34,7 @@ console.log(manyLineTemplate);
 const indentedText = `
 second line
   third line
-   fourth line
+    fourth line
  fifth line`;
 console.log(indentedText);
 
